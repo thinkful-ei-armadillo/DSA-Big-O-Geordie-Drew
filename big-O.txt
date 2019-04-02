@@ -1,0 +1,17 @@
+#1-1: This is constant. By yelling out to the group of 15 people, 
+        it is effectively the same as searching for a single in an array.
+#1-2: This is linear. You are going through the line of the people, asking one-by-one.
+
+#2: This is constant. When you check each if statement, 
+        both are contants so therefore the entire algorithm is one as well.
+
+#3: This is polynomial. Because the algorithm depends on a nested for loop, the function therefore runs as O(n^2).
+
+#4: This is linear. It is dependant on the length of the array.
+
+#5: This is linear. It is dependant on the length of the array.
+
+#6: This is polynomial. Despite there being only one array, the nest for loop makes it polynomial.
+
+#7: This algorithm is effectively running the fibonacci sequence and putting each number into the array until it gets to num.
+    The runtime complexity is linear becuase it is dependant on the length of the array which is the input "num."
