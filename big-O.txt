@@ -24,3 +24,9 @@
 #10: This algorithm takes in value and checks to see if that value is a prime number or not. The time complexity here is
         linear because it is dependant number passed in.
 
+#11-1 & 2: see index.js
+#11-3: Given 5 discs, at move #7, discs 1, 2, & 3 are at the destination pole while 4 & 5 are still at the start
+#11-4: 3 discs take 7 moves, 4 take 15, 5 take 31
+#11-5: The runtime is exponential
+
+#12: see index.js
