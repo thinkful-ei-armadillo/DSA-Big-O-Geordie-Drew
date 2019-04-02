@@ -15,3 +15,12 @@
 
 #7: This algorithm is effectively running the fibonacci sequence and putting each number into the array until it gets to num.
     The runtime complexity is linear becuase it is dependant on the length of the array which is the input "num."
+
+#8: This is logarithmic or log(n). Regardless the size of the data, it will always be cut in half and then half again until
+        a condition is met. Therefore, the complexity grows logarithmically.
+
+#9: This is constant. It only returns a random element in a given array.
+
+#10: This algorithm takes in value and checks to see if that value is a prime number or not. The time complexity here is
+        linear because it is dependant number passed in.
+
