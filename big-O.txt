@@ -30,3 +30,21 @@
 #11-5: The runtime is exponential
 
 #12: see index.js
+
+#13-1: This is linear. It is dependant on the size of n.
+#13-2: This is linear. It is dependant on the size of exp.
+#13-3: This is linear. It is dependant on the length of the string.
+#13-4: This is linear. It is dependant on the size of n.
+#13-5: This is linear. It is dependant on the length of the string.
+#13-6: This is exponential. It is dependant on both the size of n as well as the fact that the recurision is called twice.
+#13-7: This is linear. It is dependant on the size of n.
+#13-8: This is exponential. Because the recurision occurs inside of nested loops, it can go haywire if the word is long.
+#13-9 & 13-10: This is polynomial because the recurision is always called four times. (x^4)
+
+#14-1: This is linear. It is dependant on the size of n.
+#14-2: This is linear. It is dependant on the size of exp.
+#14-3: This is linear. It is dependant on the length of the string.
+#13-4: This is linear. It is dependant on the size of n.
+#13-5: This is linear. It is dependant on the length of the string.
+#13-6: This is linear. It is dependant on the size of n.
+#13-7: This is linear. It is dependant on the size of n.
